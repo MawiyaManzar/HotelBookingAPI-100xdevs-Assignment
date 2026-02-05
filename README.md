@@ -1,6 +1,6 @@
 # 🏨 Hotel Booking API
 
-A RESTful API for hotel booking management system built as a 100xdevs assignment. This API enables hotel owners to manage their properties and allows customers to search, book hotels, and submit reviews.
+A RESTful API for hotel booking management system. This API enables hotel owners to manage their properties and allows customers to search, book hotels, and submit reviews.
 
 ## 📋 Overview
 
@@ -514,6 +514,6 @@ This project is created as part of the 100xdevs assignment.
 
 ## 👨‍💻 Development
 
-Built with ❤️ using Bun and Express.js
+Built with ❤️ by Mawiya Manzar
 
 For questions or issues, please refer to the 100xdevs course materials.
